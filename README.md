@@ -11,5 +11,5 @@
 - 🔭 My goal is to become an **IT development trainer**
 - 💚 My hobbies : **Hiking**, **Photography**, **Insects**
 - 📫 How to reach me **<a href="https://bento.me/belynn">Socials links</a>**
-- In a few words...<br>
-<code>**`Chill`** • **`Team spirit`** • **`Solutions oriented`** • **`Discovering new stuff everyday`** • **`I don't like people who complicate things on purpose (:`**</code>
+<br><br>
+**`Super Chill`** • **`Team spirit`** • **`Solutions oriented`** • **`Discovering new stuff everyday`** • **`Desire to share`**<br>**`I don't like people who complicate things on purpose (:`**
