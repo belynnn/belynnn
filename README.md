@@ -6,8 +6,8 @@
 
 - 📚 I’m a student at @Interface3 to become <br>**[Web Application Developer](https://interface3.be/fr/se-former-pour-l-emploi/it-training-formations-en-informatique/web-application-developer)**
 - 🌱 I’m focusing on learning **PHP - Symfony & C# - ASP.NET**
-- 🛠️ I'm actually working on my personnal project **<a href="https://github.com/belynnn/I3_WAD_PHP__project_insectopedia/tree/develop">Insectopedia</a>**
-- 👯 I want to collaborate on **Projects who's Human centered**
+- 🛠️ I'm actually working on my personnal project **<a href="https://github.com/belynnn/I3_WAD_PHP__final_project_insectopedia">Insectopedia</a>**
+- 👯 I'm collaborating on **<a href="https://impact.lauradurieux.dev/">IMPACT</a>** (Initiative for Minoritized Pioneers and Achievements in Computer Technology), a project initiate by Laura "<a href="https://linktr.ee/devgirl_">DevGirl_</a>" Durieux
 - 🔭 My goal is to become an **IT development trainer**
 - 💚 My hobbies : **Hiking**, **Photography**, **Insects**
 - 📫 How to reach me **<a href="https://bento.me/belynn">Socials links</a>**
