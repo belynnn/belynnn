@@ -75,7 +75,8 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+![Natron](https://img.shields.io/badge/Natron-blue)
 
 ## 📊 GitHub Stats
 ![Belynnn's GitHub languages stats](https://github-readme-stats.vercel.app/api?username=Belynnn&show_icons=true&layout=compact&bg_color=00000000&include_all_commits=true&count_private=true)
