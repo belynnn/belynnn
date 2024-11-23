@@ -1,17 +1,17 @@
 # Aloha 👋, I'm Deborah Clerckx
 ### A passionate junior developer from 🇧🇪 Belgium
 #### My pronouns are She/They/Them
-
+###
 <img align="right" alt="Coding" width="380" src="https://finbuzzactu.files.wordpress.com/2016/12/thumbnail-4.gif">
 
-📚 I'm currently learning web development at **[@Interface3](https://interface3.be/fr/se-former-pour-l-emploi/it-training-formations-en-informatique/web-application-developer)**<br>
-🔍 I'm searching a 8 weeks internship as a Back-End developer where I can put my<br>development skills into practice<br>
-🌱 I’m focusing on learning **PHP - Symfony & C# - ASP.NET**<br>
-🛠️ I'm actually working on my personnal project **<a href="https://github.com/belynnn/I3_WAD_PHP__final_project_insectopedia">Insectopedia</a>**<br>
-👯 I'm collaborating on **<a href="https://github.com/Lauwed/impact-api">IMPACT</a>** (Initiative for Minoritized Pioneers and Achievements in Computer Technology), a project initiate by Laura "<a href="https://linktr.ee/devgirl_">DevGirl_</a>" Durieux<br>
-🎯 My goal is to become an **IT development trainer**<br>
-💚 My hobbies are **Hiking**, **Photography** & **Insects**<br>
-🗣️ I speak French, English and I would like to improve my Dutch<br>
+📚 I'm currently learning web development at **[@Interface3](https://interface3.be/fr/se-former-pour-l-emploi/it-training-formations-en-informatique/web-application-developer)** <br>
+🔍 I'm searching a 8 weeks internship as a Back-End developer where I can put my development skills into practice <br>
+🌱 I’m focusing on learning **PHP - Symfony & C# - ASP.NET** <br>
+🛠️ I'm actually working on my personnal project **<a href="https://github.com/belynnn/I3_WAD_PHP__final_project_insectopedia">Insectopedia</a>** <br>
+👯 I'm collaborating on **<a href="https://github.com/Lauwed/impact-api">IMPACT</a>** (Initiative for Minoritized Pioneers and Achievements in Computer Technology), a project initiate by Laura "<a href="https://linktr.ee/devgirl_">DevGirl_</a>" Durieux <br>
+🎯 My goal is to become an **IT development trainer** <br>
+💚 My hobbies are **Hiking**, **Photography** & **Insects** <br>
+🗣️ I speak French, English and I would like to improve my Dutch <br>
 🌐 How to reach me : **<a href="https://bento.me/belynn">Bento Me</a>**
 
 **`Super Chill`** • **`Team spirit`** • **`Solutions oriented`** • **`Discovering new stuff everyday`** • **`Desire to share`**<br>**`I don't like people who complicate things on purpose (:`**<br>
